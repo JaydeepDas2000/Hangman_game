@@ -1,0 +1,19 @@
+word_list= [
+    'wares',
+    'soup',
+    'mount',
+    'extend',
+    'brown',
+    'expert',
+    'tried',
+    'backpack',
+    'dent',
+    'market',
+    'coin',
+    'downfall',
+    'thinking',
+    'match',
+    'funnel',
+    'dream',
+    'true'
+]
